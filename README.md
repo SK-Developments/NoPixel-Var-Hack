@@ -3,6 +3,9 @@ Taken from a different repo, and fixed because it was buggy.
 
 FEEL FREE TO CHANGE RESOURCE NAME DO NOT DISTURBUTE AS YOUR OWN THIS IS NOT MY ORIGINAL SCRIPT IT CAME FROM SOMEONE ELSES REPO BUT IT WAS BROKEN
 
+ORIGINAL LINK:
+https://github.com/JoeSzymkowiczFiveM/varhack
+
 
 ORIGINAL README:
 # Description
