@@ -1,4 +1,5 @@
 # NoPixel-Var-Hack
+"i probably wouldnt use this and would use a different one" (Luci from 04/07/2023)
 Taken from a different repo, and fixed because it was buggy.
 
 FEEL FREE TO CHANGE RESOURCE NAME DO NOT DISTURBUTE AS YOUR OWN THIS IS NOT MY ORIGINAL SCRIPT IT CAME FROM SOMEONE ELSES REPO BUT IT WAS BROKEN
